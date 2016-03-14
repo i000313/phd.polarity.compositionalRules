@@ -1,0 +1,241 @@
+NewsHeadline	Phrase	SOHuman	Pattern	NewsCategory
+Agora são três as denúncias de dinheiro do exterior para a campanha de Lula	agora são	0	adv v-fin	Política e conflitos
+Esporte paraolímpico ainda enfrenta dificuldades para crescer por falta de patrocínio	ainda enfrenta	0	adv v-fin	Política e conflitos
+Fernando Lugo reconhece filho da época em que ainda era bispo	ainda era	0	adv v-fin	Política e conflitos
+Obama ainda lidera corrida Democrata	ainda lidera	1	adv v-fin	Política e conflitos
+McCain é o candidato Republicano; Hillary ainda mantém fôlego	ainda mantém	0	adv v-fin	Política e conflitos
+Entrevista de Jarbas Vasconcelos à revista Veja ainda provoca polêmica	ainda provoca	0	adv v-fin	Política e conflitos
+Brasil ainda registra muitos casos de diagnóstico tardio da hanseníase	ainda registra	0	adv v-fin	Saúde
+Guebuza inicia amanhã visita a Itália	amanhã visita	0	adv v-fin	Economia e negócios
+Brasil está mais bem preparado para Copa que África do Sul, dizem observadores	bem preparado	1	adv v-pcp	Política e conflitos
+Funcionários descrevem como fraudavam o leite	como fraudavam	0	adv v-fin	Saúde
+Hospital diz que são 28 as vítimas fatais em Qana, não 56 como havia sido divulgado	como havia sido divulgado	0	adv v-fin v-pcp v-pcp	Política e conflitos
+Cristina Kirchner toma posse como presidenta da Argentina para mais quatro anos de mandato	como presidenta	0	adv v-fin	Economia e negócios
+Deputado espanhol é expulso da Venezuela depois criticar CNE e Chávez	depois criticar	-1	adv v-inf	Política e conflitos
+Hoje ocorrem eleições no Paquistão	hoje ocorrem	0	adv v-fin	Política e conflitos
+Prévias americanas de hoje podem ser decisivas	hoje podem ser	0	adv v-fin v-inf	Política e conflitos
+BNDES já aplicou R$ 1,1 bilhão no programa de concessão de rodovias federais	já aplicou	0	adv v-fin	Economia e negócios
+Dólar segue em desvalorização e em 8 dias já caiu 5%	já caiu	0	adv v-fin	Economia e negócios
+Forças de Defesa de Israel dizem que Hizbollah já começa a ficar sem mísseis	já começa a ficar	0	adv v-fin prp v-inf	Política e conflitos
+Impostos no Brasil já consomem 41,6% do PIB diz IBPT	já consomem	0	adv v-fin	Economia e negócios
+Obama já é presidente dos Estados Unidos	já é	0	adv v-fin	Política e conflitos
+Já entraram em vigor novas classificações energéticas nos electrodomésticos	já entraram	0	adv v-fin	Política e conflitos
+Senador Antonio Carlos Magalhães diz que reeleição de Lula já era	já era	0	adv v-fin	Política e conflitos
+Versão em xarope do Tamiflu para crianças já está sendo distribuída no DF	já está sendo distribuída	0	adv v-fin v-ger v-pcp	Saúde
+Fitas de Santo André já estão com a CPI dos Bingos	já estão	0	adv v-fin	Política e conflitos
+Guerra civil na Síria já fez três milhões de refugiados	já fez	0	adv v-fin	Política e conflitos
+Lula disse que foco de febre aftosa já foi debelado	já foi debelado	2	adv v-fin v-pcp	Economia e negócios
+Embaixador venezuelano em Washington já foi informado de sua expulsão	já foi informado	2	adv v-fin v-pcp	Política e conflitos
+OMS informa que dois terços das amostras do vírus mortal já foram destruídas	já foram destruídas	0	adv v-fin v-pcp	Saúde
+Jornal do Brasil já havia denunciado pagamento a deputados em 2004	já havia denunciado	-1	adv v-fin v-pcp	Política e conflitos
+Prefeito do Rio já havia denunciado pagamento a deputados	já havia denunciado	-1	adv v-fin v-pcp	Política e conflitos
+Chuvas no Maranhão já mataram sete e afetaram 155 mil pessoas	já mataram	-3	adv v-fin	Política e conflitos
+Gripe suína já matou 557 pessoas no Brasil, que detém a 7ª maior taxa de óbitos no mundo	já matou	-3	adv v-fin	Saúde
+Surto da bactéria E.coli já matou 35 na Europa	já matou	-3	adv v-fin	Economia e negócios
+Pior da crise já passou, informa carta "Conjuntura Econômica" da FGV	já passou	0	adv v-fin	Economia e negócios
+PT já pensa em nomes para sucessão de Lula	já pensa	0	adv v-fin	Política e conflitos
+Com excesso de chuvas, MS já perdeu cerca de 30% da safra de soja	já perdeu	-2	adv v-fin	Economia e negócios
+No Brasil, fundos de pensão têm contratos com empresa que já pertenceu ao ex-ministro Gushiken	já pertenceu	0	adv v-fin	Política e conflitos
+Casos da gripe A já predominam sobre os de gripe comum, diz OMS	já predominam	0	adv v-fin	Saúde
+Menina de nove anos está grávida de gêmeos do padrasto de 23 anos já preso no interior de Pernambuco	já preso	-1	adv v-pcp	Saúde
+Brasil já registra 11 mortes por gripe A (H1N1)	já registra	0	adv v-fin	Saúde
+México já registra 124 mortes provocadas por gripe suína	já registra	0	adv v-fin	Saúde
+Portugueses já sentem na sua saúde efeitos das alterações climáticas	já sentem	0	adv v-fin	Saúde
+Brasil já tem 34 casos de morte por gripe A	já tem	0	adv v-fin	Saúde
+Brasil já tem 35 casos de gripe A H1N1	já tem	0	adv v-fin	Saúde
+Brasil já tem sete casos de morte por gripe A (H1N1)	já tem	0	adv v-fin	Saúde
+Oposição já tem pronto requerimento de convocação de Dilma para acareação no Senado	já tem	0	adv v-fin	Economia e negócios
+Lula nega já ter escolhido Dilma como sua sucessora	já ter escolhido	0	adv v-inf v-pcp	Política e conflitos
+Mais de 300 políticos eleitos em 2008 já tiveram os mandatos cassados; Prefeitos do Nordeste e Sudeste representam maioria entre cassados	já tiveram	0	adv v-fin	Política e conflitos
+Lula diz na Bahia que já tomou decisão sobre Battisti, mas não revela qual é	já tomou	0	adv v-fin	Política e conflitos
+TSE informa que já trocou 2.348 urnas em todo o país	já trocou	0	adv v-fin	Política e conflitos
+Estatística nomeia Clinton e Bush como pessoas "mais admiradas"	mais admiradas	0	adv v-pcp	Política e conflitos
+Uruguaiana, no Rio Grande do Sul, é a cidade brasileira mais atingida pela gripe A	mais atingida	-2	adv v-pcp	Saúde
+TV Record foi que mais demitiu funcionários nos estados de SP e RJ em 2011	mais demitiu	-1	adv v-fin	Economia e negócios
+Lula diz que a carga tributária no Brasil está muito distante das mais elevadas do mundo	mais elevadas	0	adv v-pcp	Economia e negócios
+Mantega anuncia no fim da tarde mais medidas para frear desvalorização do dólar	mais medidas para frear	0	adv v-pcp prp v-inf	Economia e negócios
+Esposa e filha de Saddam Hussein na lista dos mais procurados	mais procurados	-1	adv v-pcp	Política e conflitos
+Polícia mata criminoso Matemático, um dos traficantes mais procurados do Rio de Janeiro	mais procurados	-1	adv v-pcp	Saúde
+Mesmo hospitalizado, Alencar está no exercício da Presidência	mesmo hospitalizado	-1	adv v-pcp	Política e conflitos
+G20 não acabará com a crise em um dia, adverte ministro britânico	não acabará	0	adv v-fin	Economia e negócios
+Lula afirma que Brasil não acata ultimato de golpista	não acata	-1	adv v-fin	Política e conflitos
+Lula diz que Brasil não aceita novo governo em Honduras	não aceita	0	adv v-fin	Política e conflitos
+As FARC sinalizam que podem não aceitar proposta de intercâmbio humanitário	não aceitar	0	adv v-inf	Política e conflitos
+Hugo Chávez adverte a Espanha que não aceitará nenhuma ingerência em seu país	não aceitará	0	adv v-fin	Economia e negócios
+Fórum realizado no Brasil sugere que países não acolham corruptos	não acolham	0	adv v-fin	Política e conflitos
+Presidente da Câmara dos Deputados do Brasil diz que não acredita na existência do mensalão	não acredita	-1	adv v-fin	Política e conflitos
+Presidente da Câmara dos Deputados do Brasil não acredita no mensalão e defende penas mais brandas	não acredita	-1	adv v-fin	Política e conflitos
+Concordata da matriz não afetou GM no Brasil, afirma presidente; Sindicato quer garantia de que não haverá demissões na GM	não afetou	1	adv v-fin	Economia e negócios
+Mais de 70% dos venezuelanos não aparece para votar	não aparece para votar	0	adv v-fin prp v-inf	Política e conflitos
+Partido dos Trabalhadores decide não assinar representação contra Presidente da Câmara	não assinar	0	adv v-inf	Política e conflitos
+The Times publica notas sobre suborno de militantes do Talibam para não atacarem o exército italiano	não atacarem	1	adv v-inf	Política e conflitos
+Ministro diz que determinação de Lula é não aumentar tarifa de energia depois de acordo	não aumentar	0	adv v-inf	Economia e negócios
+Selic não cairá mais neste ano, apostam analistas	não cairá	0	adv v-fin	Economia e negócios
+Morales diz que não chamou Petrobrás de contrabandista e acusa a imprensa	não chamou	0	adv v-fin	Economia e negócios
+Nova denúncia sobre Recursos Federais da Petrobras que não chegaram à Fundação José Sarney	não chegaram	0	adv v-fin	Economia e negócios
+Recursos Federais da Petrobras não chegaram à Fundação José Sarney, diz jornal	não chegaram	0	adv v-fin	Economia e negócios
+Relator é pressionado para não citar Lula	não citar	0	adv v-inf	Política e conflitos
+Até ontem, Lula preferiu não comentar as denúncias de corrupção	não comentar	0	adv v-inf	Política e conflitos
+Tesoureiro do PT afirma que não comprou votos de deputados brasileiros	não comprou	0	adv v-fin	Política e conflitos
+Revista Newsweek desculpa-se por notícia não comprovada sobre suposto insulto americano ao Alcorão	não comprovada sobre suposto	0	adv v-pcp prp v-pcp	Política e conflitos
+No Brasil, governo insiste em escolher presidente e relator da CPI, oposição não concorda e CPI dos Correios engasga	não concorda	0	adv v-fin	Política e conflitos
+OEA não condena mas reconhece violação de território equatoriano	não condena mas reconhece	0	adv v-fin conj-c v-fin	Política e conflitos
+Ex-secretário do PT não confirma entrevista de O Globo	não confirma	0	adv v-fin	Política e conflitos
+Fonte da notícia não confirmada da Newsweek pode ter sido um sargento americano	não confirmada	0	adv v-pcp	Política e conflitos
+Renúncia de integrantes da cúpula do Partido dos Trabalhadores não confirmada	não confirmada	0	adv v-pcp	Política e conflitos
+Mulher que vive em área pobre de Brasília não conhece proteção da Lei Maria da Penha	não conhece	0	adv v-fin	Política e conflitos
+Separatistas não conseguem impedir ônibus de cruzar a Cachemira	não conseguem impedir	0	adv v-fin v-inf	Política e conflitos
+Brasil não cumpre a Lei 10.639 que obriga o ensino da História e Cultura da África, diz Universidade	não cumpre	-1	adv v-fin	Política e conflitos
+Ahmadinejad diz que aquele que não curvar-se espontaneamente perante o poderio iraniano, fará isso à força	não curvar-se	1	adv v-fin	Política e conflitos
+Anvisa recomenda não dar mel para crianças com menos de 1 ano	não dar	0	adv v-inf	Saúde
+Lula pede a Zelaya que não dê pretexto para ataques à Embaixada do Brasil	não dê	0	adv v-fin	Política e conflitos
+Dinheiro não declarado de Marcos Valério foi usado na campanha de Eduardo Azeredo, disse tesoureiro do PSDB	não declarado	-1	adv v-pcp	Política e conflitos
+Líderes governistas não definem nomes para presidência e relatoria da CPI da Petrobras	não definem	0	adv v-fin	Economia e negócios
+Senador Artur Virgilio disse que não deseja impeachment de Lula	não deseja	0	adv v-fin	Política e conflitos
+Microsoft não desiste e deve passar por cima de diretoria do Yahoo!	não desiste e deve passar	0	adv v-fin conj-c v-fin v-inf	Economia e negócios
+FARC-PT:Abin não disse a verdade, dizem pessoas que trabalharam na investigação da Abin	não disse	0	adv v-fin	Política e conflitos
+Tesoureiro do PT não disse informação correta, diz Tribunal Superior Eleitoral do Brasil	não disse	0	adv v-fin	Política e conflitos
+David Blunkett não é o pai do filho de Kimberly Quinn	não é	0	adv v-fin	Política e conflitos
+Estados Unidos vão eleger um negro e isso não é pouca coisa, diz Lula	não é	0	adv v-fin	Política e conflitos
+FHC defende privatizações e diz que não é contra a venda da Petrobras	não é	0	adv v-fin	Economia e negócios
+Ministro da Fazenda do Brasil nega denúncias de ex-assessor e diz que não é insubstituível	não é	0	adv v-fin	Política e conflitos
+Polícia Federal explica que relatório enviado ao Supremo Tribunal não é indiciamento de parlamentares brasileiros envolvidos no mensalão	não é	0	adv v-fin	Política e conflitos
+Vírus da gripe suína não é mais tão perigoso, constata OMS	não é	0	adv v-fin	Saúde
+Presidente da Câmara não encaminha leitura de pedido de impeachment de Lula	não encaminha	0	adv v-fin	Política e conflitos
+Lula e Berlusconi pedem que economias não entrem em pânico	não entrem	0	adv v-fin	Política e conflitos
+Prefeito do Rio de Janeiro disse que acredita que Lula vai conseguir mostrar que não esconde nada	não esconde	0	adv v-fin	Política e conflitos
+Equipe econômica não está preocupada com possível aumento da taxa de juros pelo Banco Central	não está preocupada	1	adv v-fin v-pcp	Economia e negócios
+Movimento denuncia que retirada de moradores da região da Usina de Santo Antonio não está sendo pacífica	não está sendo	0	adv v-fin v-ger	Economia e negócios
+Presidente da Câmara fala que não existe "acordão"	não existe	0	adv v-fin	Política e conflitos
+Lula diz que na Venezuela "não falta democracia"	não falta	1	adv v-fin	Política e conflitos
+Brasil e Paraguai não fecham acordo sobre Itaipu	não fecham	0	adv v-fin	Economia e negócios
+Itaú e Unibanco não fecharão agências, diz sindicalista	não fecharão	0	adv v-fin	Economia e negócios
+Socialistas vencem as Legislativas de Portugal, mas não ficam com maioria absoluta	não ficam	0	adv v-fin	Política e conflitos
+Relator da CPI dos Correios diz que não foi pressionado	não foi pressionado	1	adv v-fin v-pcp	Política e conflitos
+Gravações clandestinas não foram feitas no Senado do Brasil, diz polícia	não foram feitas	0	adv v-fin v-pcp	Política e conflitos
+Delegado de Ribeirão Preto diz que indiciaria Palocci por corrupção, se ele não fosse ministro	não fosse	0	adv v-fin	Política e conflitos
+Embaixador paraguaio não gosta de nome "Operação Paraguai"	não gosta	-1	adv v-fin	Política e conflitos
+Amorim diz que não há tensão nas relações entre Brasil e Estados Unidos	não há	0	adv v-fin	Economia e negócios
+Coreia do Norte diz que não há nada de errado com a saúde de Kim Jong-un	não há	0	adv v-fin	Saúde
+Lula diz que não há muito que esperar da reunião do G20 em Washington	não há	0	adv v-fin	Economia e negócios
+Ministério da Saúde do Brasil diz que não há falta de medicamento para tratar gripe A	não há	0	adv v-fin	Economia e negócios
+Ministro da Saúde do Brasil diz que não há risco de epidemia de febre amarela	não há	0	adv v-fin	Saúde
+Ministro-chefe da Coordenação Política de Lula disse que não há acusação contra o governo	não há	0	adv v-fin	Política e conflitos
+Amorim diz que Petrobras pode deixar Equador caso não haja acordo com o governo	não haja	0	adv v-fin	Política e conflitos
+Concordata da matriz não afetou GM no Brasil, afirma presidente; Sindicato quer garantia de que não haverá demissões na GM	não haverá	0	adv v-fin	Economia e negócios
+Embaixador palestino no Brasil diz que não haverá rendição a Israel	não haverá	0	adv v-fin	Política e conflitos
+Lula diz que não haverá apagão elétrico no Brasil	não haverá	0	adv v-fin	Política e conflitos
+Não haverá desabastecimento de gás na Argentina, dizem interventores da petrolífera YPF	não haverá	0	adv v-fin	Economia e negócios
+ONU diz que não havia militantes palestinos em escola atacada	não havia	0	adv v-fin	Política e conflitos
+Relatório final da CPI dos Grampos indicia Daniel Dantas, mas não inclui Protógenes Queiroz e Paulo Lacerda, sob protestos da Opportunity e políticos	não inclui	0	adv v-fin	Saúde
+Evo Morales disse que pretende não indenizar a Petrobras	não indenizar	-1	adv v-inf	Economia e negócios
+Lula critica FMI e Bird por não interferirem em países desenvolvidos durante crise	não interferirem	0	adv v-inf	Economia e negócios
+Congresso Brasileiro decide não investigar sanguessugas	não investigar	-1	adv v-inf	Política e conflitos
+Hamas diz que não irá libertar soldado israelense	não irá libertar	-1	adv v-fin v-inf	Política e conflitos
+Obama diz que casos de gripe suína são preocupantes, mas não justificam alarme	não justificam	0	adv v-fin	Saúde
+Cúpula da América Latina e do Caribe mostra que EUA não mandam na região, diz Chávez	não mandam	0	adv v-fin	Política e conflitos
+Número dois da Al-Qaeda diz que sua organização não mata civis	não mata	2	adv v-fin	Política e conflitos
+Equador ameaça não pagar BNDES por hidrelétrica	não pagar	-1	adv v-inf	Economia e negócios
+Ordem para ataques a brasileiros que vivem na Bolívia não partiu do governo de Evo Morales, dizem autoridades	não partiu	0	adv v-fin	Política e conflitos
+Solução para a crise do Senado não passa pela saída de Sarney da presidência, diz Jucá	não passa	0	adv v-fin	Política e conflitos
+Relatório final da CPI dos Grampos sobre Operação Satiagraha não pede indiciamentos	não pede	0	adv v-fin	Economia e negócios
+Ordem dos Advogados do Brasil estuda se deve ou não pedir impeachment de Lula	não pedir	0	adv v-inf	Política e conflitos
+Lula diz que não pode atrasar agenda porque iraniano tem horário para rezar	não pode atrasar	1	adv v-fin v-inf	Política e conflitos
+Crise não pode frustrar esforço da América Latina, diz Lula em mensagem a Obama	não pode frustrar	1	adv v-fin v-inf	Política e conflitos
+Micheletti diz que país não pode permanecer isolado e quer negociar com OEA	não pode permanecer isolado	1	adv v-fin v-inf v-pcp	Política e conflitos
+Brasil condena proprosta dos EUA para OEA e diz que democracia não pode ser imposta	não pode ser imposta	2	adv v-fin v-inf v-pcp	Política e conflitos
+Violência no Rio não pode servir de pretexto contra humanização em presídios, diz Vannuchi	não pode servir	0	adv v-fin v-inf	Política e conflitos
+Ministra diz que brasileiros não podem ser tratados como cidadãos de segunda categoria	não podem ser tratados	0	adv v-fin v-inf v-pcp	Política e conflitos
+Com novas regras, planos de saúde não precisam pagar cesarianas agendadas	não precisam pagar	1	adv v-fin v-inf	Saúde
+Entrada da Venezuela no Mercosul não prejudica acordo do bloco com Israel, diz Shimon Peres	não prejudica	1	adv v-fin	Política e conflitos
+Relatório diz que Senado teve 663 atos secretos não publicados em 15 anos	não publicados	0	adv v-pcp	Economia e negócios
+Oposição não quer impeachment de Lula porque teme que Vice-Presidente do Brasil vença as eleições, disse Roberto Jefferson	não quer	0	adv v-fin	Política e conflitos
+Presidente Lula garante que Brasil não quer integrar cartel do petróleo	não quer integrar	0	adv v-fin v-inf	Política e conflitos
+Comunistas do PCdoB não querem CPI dos Correios	não querem	0	adv v-fin	Política e conflitos
+ONG diz que sete em cada dez usuários do Bolsa Família não querem o benefício para sempre	não querem	0	adv v-fin	Política e conflitos
+Antonio Mexia diz que não recebeu Valério como representante do governo brasileiro	não recebeu	0	adv v-fin	Política e conflitos
+Chevron diz que ainda não recebeu oficialmente notificação judicial que impede seus executivos de saírem do país	não recebeu	0	adv v-fin	Economia e negócios
+Prof Luizinho disse que não recebeu o mensalão	não recebeu	0	adv v-fin	Política e conflitos
+Chávez não reconhece independência de Kosovo	não reconhece	0	adv v-fin	Política e conflitos
+Obama declara-se o candidato democrata, mas Clinton ainda não reconhece derrota	não reconhece	0	adv v-fin	Política e conflitos
+Brasil não reconhecerá resultado de eleições presidenciais em Honduras, diz Amorim	não reconhecerá	0	adv v-fin	Política e conflitos
+Governo da Colômbia avisa que não recuará em sua ofensiva contra as FARC	não recuará	0	adv v-fin	Política e conflitos
+Corrupção em Rondônia:Deputado volta atrás e diz que não renuncia	não renuncia	0	adv v-fin	Política e conflitos
+Sem acordo no Timor, Ramos-Horta decide não renunciar por cargo na ONU	não renunciar	0	adv v-inf	Política e conflitos
+Lula disse que não repetirá Getúlio Vargas, Jânio Quadros ou Jango	não repetirá	0	adv v-fin	Política e conflitos
+Desaconselhar viagens não resolve problema de propagação da gripe suína, diz comissária da UE	não resolve	-2	adv v-fin	Saúde
+Micheletti admite renúncia desde que Zelaya não retorne ao poder em Honduras	não retorne	0	adv v-fin	Política e conflitos
+Lula diz na Bahia que já tomou decisão sobre Battisti, mas não revela qual é	não revela	-1	adv v-fin	Política e conflitos
+Marcos Valério pediu 200 milhões de reais para não revelar corrupção no governo brasileiro, disse Veja	não revelar	0	adv v-inf	Política e conflitos
+Bolívia pode pressionar Argentina para não revender gás natural ao Chile	não revender	0	adv v-inf	Política e conflitos
+Lula diz que não reverá preços de Itaipu; Amorim diz que é possível	não reverá	0	adv v-fin	Economia e negócios
+Na CPI dos Bingos Palocci nega as denúncias e diz que não sabe de nada	não sabe	0	adv v-fin	Política e conflitos
+Sócio de Marcos Valério disse que não sabia de nada	não sabia	0	adv v-fin	Política e conflitos
+Em entrevista, Obama diz que "EUA não são inimigos do Islão"	não são	0	adv v-fin	Política e conflitos
+Uribe: "quem acha que as FARC não são terroristas, que venha aqui"	não são	0	adv v-fin	Política e conflitos
+Vendas diretas não são afetadas pela crise, diz entidade	não são afetadas	0	adv v-fin v-pcp	Economia e negócios
+Ucrânia aceita reunião com países consumidores do gás russo, mas pede que não seja realizada na Rússia	não seja realizada	0	adv v-fin v-pcp	Economia e negócios
+Lula e Merkel: "acordo ideal" não será possível na Conferência do Clima	não será	0	adv v-fin	Política e conflitos
+Minc afirma que Brasil não será a lata de lixo do planeta	não será	0	adv v-fin	Economia e negócios
+Não será este ano a eleição presidencial na Angola, diz José Eduardo dos Santos na África do Sul	não será	0	adv v-fin	Política e conflitos
+IPI para automóveis e eletrodomésticos não será prorrogado, segundo ministro Mantega	não será prorrogado	0	adv v-fin v-pcp	Economia e negócios
+Investidor não sofrerá perdas com fusão Bovespa-BM&F, garantem executivos	não sofrerá	2	adv v-fin	Economia e negócios
+Chanceler das FARC diz que não soltará Betancourt	não soltará	-1	adv v-fin	Política e conflitos
+Agência Brasil:"Brasil não tem sequer surto de febre amarela, explica virologista "	não tem	0	adv v-fin	Saúde
+Banco Central do Zimbábue lança cédula de 50 milhões de dólares que não tem valor	não tem	0	adv v-fin	Economia e negócios
+Caso BPN: Dias Loureiro não tem nada em seu nome, diz jornal	não tem	0	adv v-fin	Economia e negócios
+Fernando Henrique diz que ou "Lula sabia sobre o mensalão" ou "não tem capacidade para o cargo"	não tem	0	adv v-fin	Política e conflitos
+Lula: "não tem mulher nem homem que tenha coragem de me dar lição de ética, de moral e de honestidade"	não tem	0	adv v-fin	Política e conflitos
+Relatório final da CPMI diz que não tem provas de que Lula se omitiu, mas que ele poderia ter tomado ciência dos factos	não tem	0	adv v-fin	Política e conflitos
+Roberto Jefferson não tem cerca de 50 conversas comprometedoras gravadas, segundo deputado do PTB	não tem	0	adv v-fin	Política e conflitos
+Saneamento recebe investimentos crescentes, mas maioria da população não tem esgoto tratado	não tem	0	adv v-fin	Economia e negócios
+Vitória da oposição no Chile não tem relação com o Brasil, diz Garcia	não tem	0	adv v-fin	Política e conflitos
+Líder disse que governo brasileiro não teme as investigações	não teme	0	adv v-fin	Política e conflitos
+Terceiro paciente internado com gripe suína passa bem, mas ainda não teve alta	não teve	0	adv v-fin	Saúde
+Lula diz que economia estaria melhor se setores da indústria não tivessem entrado em pânico e promete eleger sucessor para ele fazer mais que o seu governo	não tivessem entrado	0	adv v-fin v-pcp	Economia e negócios
+Governo colombiano diz que "não tolerará mais" missões como a de Villavicencio	não tolerará	-1	adv v-fin	Política e conflitos
+Grupo do Bric avalia não usar dólar no comércio entre Brasil China, Índia e Rússia, segundo Meirelles	não usar	0	adv v-inf	Economia e negócios
+Presidente deposto de Honduras diz que não vai aceitar o exílio	não vai aceitar	0	adv v-fin v-inf	Política e conflitos
+Presidente da Câmara dos Deputados, Michel Temer, diz que crise do Senado não vai atingir a Câmara	não vai atingir	1	adv v-fin v-inf	Política e conflitos
+Hollande confirma que economia da França não vai crescer 0,8% em 2013	não vai crescer	-1	adv v-fin v-inf	Economia e negócios
+Presidente de Madagascar diz que não vai entregar o cargo a militares	não vai entregar	0	adv v-fin v-inf	Política e conflitos
+Brasil não vai reconhecer eleições em Honduras, reafirma Lula	não vai reconhecer	-1	adv v-fin v-inf	Política e conflitos
+Em visita à Guatemala, Lula diz que não vai reeleger em 2010, mas defende que Presidentes sul-americanos tenham o terceiro mandato, desde que a democracia seja respeitada	não vai reeleger	-1	adv v-fin v-inf	Política e conflitos
+Relator contra Edmar Moreira do Castelo que mandou a opinião pública se lixar diz que não vai sair do Conselho de Ética e volta a atacar a imprensa e os que defendem o afastamento	não vai sair	0	adv v-fin v-inf	Política e conflitos
+Estados Unidos não vão reconhecer processo eleitoral em Honduras	não vão reconhecer	-1	adv v-fin v-inf	Política e conflitos
+Lula diz que "não vê" crise política no PT	não vê	0	adv v-fin	Política e conflitos
+Presidente Lula não vê "crime" no gasto de passagens com parentes	não vê	0	adv v-fin	Economia e negócios
+Espanha e México recomendam suas populações a não viajarem para Honduras	não viajarem	0	adv v-inf	Política e conflitos
+Hillary telefona a Zelaya e Micheletti diz que comunismo não volta a Honduras	não volta	0	adv v-fin	Economia e negócios
+Micheletti diz que só renuncia se Zelaya não voltar ao poder	não voltar	0	adv v-inf	Política e conflitos
+PSDB e DEM decidem não votar no Congresso propostas que mudam regras eleitorais	não votar	0	adv v-inf	Política e conflitos
+Secretários do PT afirmam que mensalão nunca existiu	nunca existiu	0	adv v-fin	Política e conflitos
+Emilio Odebrecht diz que "Lula nunca foi de esquerda"	nunca foi	0	adv v-fin	Economia e negócios
+Japoneses perguntam: onde está o meu bife?	onde está	0	adv v-fin	Saúde
+Líbano acusa Israel de bombardear edifício em Qana onde morreram 37 crianças	onde morreram	-3	adv v-fin	Política e conflitos
+Caseiro diz que Antonio Palocci freqüentava mansão em Brasília onde ocorria festas e partilha de dinheiro	onde ocorria	0	adv v-fin	Política e conflitos
+Militares mapeiam locais onde pode haver corpos de vítimas da Guerrilha do Araguaia	onde pode haver	0	adv v-fin v-inf	Política e conflitos
+Chávez viaja para Cuba, onde será submetido a nova cirurgia	onde será submetido	0	adv v-fin v-pcp	Política e conflitos
+Queda na Bovespa ontem foi a maior dos últimos dez anos	ontem foi	0	adv v-fin	Economia e negócios
+Líder do PSDB critica governo de Lula porém é contra o impeachment	porém é	0	adv v-fin	Política e conflitos
+Primeiro Eletroposto brasileiro é inaugurado	primeiro eletroposto	0	adv v-pcp	Economia e negócios
+STF arquiva processo contra ex-ministro Palocci quando era prefeito de Ribeirão Preto (SP)	quando era	0	adv v-fin	Política e conflitos
+Depressão pode começar nos primeiros anos de vida, mas nem sempre é tratada	sempre é tratada	1	adv v-fin v-pcp	Saúde
+Fiscalização de casos de gripe suína na fronteira com a Argentina só acontece em dias úteis	só acontece	0	adv v-fin	Política e conflitos
+UE só decide em Copenhaga valor de ajuda ambiental a países mais pobres	só decide	0	adv v-fin	Política e conflitos
+Lixo inglês só deve sair do Brasil no domingo	só deve sair	0	adv v-fin v-inf	Saúde
+Vacina contra influenza A só deverá estar disponível a partir de outubro	só deverá estar	0	adv v-fin v-inf	Saúde
+Oposição líbia diz que só negocia fim da crise após queda de Khadafi	só negocia	-1	adv v-fin	Política e conflitos
+Partido Nacional da Nova Zelândia só quer imigrantes que aceitam os "valores fundamentais"	só quer	0	adv v-fin	Política e conflitos
+Micheletti diz que só renuncia se Zelaya não voltar ao poder	só renuncia	-1	adv v-fin	Política e conflitos
+BR 319 só sai com cumprimento integral das condições ambientais, diz Carlos Minc	só sai	0	adv v-fin	Economia e negócios
+Visita a presos só será permitida com uso de máscara descartável	só será permitida	0	adv v-fin v-pcp	Saúde
+Vacina contra gripe suína só vai ser produzida no Brasil em 2010	só vai ser produzida	0	adv v-fin v-inf v-pcp	Saúde
+Grávidas da rede estadual de ensino do Paraná só voltam às aulas no fim de agosto	só voltam	0	adv v-fin	Saúde
+Segundo IBOPE, Lula somente perde para Serra no segundo turno	somente perde	-2	adv v-fin	Política e conflitos
+Membros de ONG supostamente seqüestrados pelas FARC são libertados	supostamente seqüestrados	-2	adv v-pcp	Política e conflitos
+Motorista também diz que Palocci ia a mansão em Brasília	também diz	0	adv v-fin	Política e conflitos
+Países Baixos também dizem não à Constituição Européia	também dizem	0	adv v-fin	Política e conflitos
+Depois de Marina Silva, o senador Flávio Arns anuncia que também está saindo do PT	também está saindo	0	adv v-fin v-ger	Política e conflitos
+Revista Veja diz que na Prefeitura de São Paulo também havia mensalão	também havia	0	adv v-fin	Política e conflitos
+Em Itamaracá os banhistas também sofrem com queimaduras de águas-vivas	também sofrem	-2	adv v-fin	Saúde

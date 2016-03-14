@@ -1,0 +1,434 @@
+NewsHeadline	Phrase	SOHuman	Pattern	NewsCategory
+José Alencar passa bem após sofrer a 15ª cirurgia	15ª cirurgia	0	adj n	Saúde
+No 1º debate do segundo turno, Alckmin e Lula trocam duros ataques	1º debate	1	adj n	Política e conflitos
+Bradesco obtém lucro recorde no 1º trimestre deste ano.	1º trimestre	0	adj n	Economia e negócios
+Datafolha: Lula mantém vitória no 1º turno	1º turno	0	adj n	Política e conflitos
+ELEIÇÕES 2006: Roraima define seu governador em 1º turno	1º turno	0	adj n	Política e conflitos
+Portugal é o 2.º país europeu com mais infecções da Gripe A (H1N1)	2.º país	0	adj n	Saúde
+Realizada a 26ª Conferência Regional da FAO	26ª conferência	0	adj n	Economia e negócios
+Citigroup apresenta prejuízo de US$ 2,5 bi no 2º trimestre	2º trimestre	0	adj n	Economia e negócios
+Tsvangirai desiste de participar do 2º turno presidencial no Zimbábue	2º turno	0	adj n	Política e conflitos
+Aliados do Lula descartam a possibilidade de 3º mandato	3º mandato	0	adj n	Política e conflitos
+Brasil melhora índices mas continua no 70º lugar em desenvolvimento humano	70º lugar	0	adj n	Saúde
+Arquiteto Oscar Niemeyer recebe alta hospitalar após passar por duas cirurgias	alta hospitalar	1	adj n	Saúde
+Estudantes anti-chavistas têm ampla vitória em eleições universitárias	ampla vitória	2	adj n	Política e conflitos
+Partido de Koizumi tem ampla vitória nas eleições legislativas no Japão	ampla vitória	2	adj n	Política e conflitos
+Morre aos 98 anos, o antigo combatente da Resistência Francesa e historiador francês, Jean-Louis Crémieux-Brilhac	antigo combatente	0	adj n	Saúde
+Morre Jaafar Nimeiri, antigo presidente do Sudão	antigo presidente	0	adj n	Saúde
+O antigo presidente indonésio Suharto, está em estado grave	antigo presidente	0	adj n	Política e conflitos
+STF julga hoje o ex-ministro e atual deputado federal Antonio Palocci, acusado de ter ordenado violar sigilo do caseiro Francenildo da Costa	atual deputado	0	adj n	Política e conflitos
+Passagem Aérea: Ex-Senador e atual Vice-Governador do Maranhão é o recordista das viagens dos ex-senadores	atual vice-governador	0	adj n	Economia e negócios
+ONU e Banco Mundial atribuem a biocombustível parte da culpa por alta dos alimentos	biocombustível parte	0	adj n	Economia e negócios
+Alencar apresenta boa condição geral de saúde, diz boletim médico	boa condição	2	adj n	Política e conflitos
+Modelo de partilha da produção do pré-sal é uma boa ideia, avalia Pinguelli Rosa, da UFRJ	boa ideia	2	adj n	Economia e negócios
+Cuba: em mensagem lida na televisão Fidel diz estar bem e com bom ânimo	bom ânimo	2	adj n	Política e conflitos
+Copenhague: EUA prometem bom senso para controlar emissões	bom senso	2	adj n	Política e conflitos
+Copa, Olimpíadas e pré-sal podem gerar bons lucros para pequenas empresas, diz Sebrae	bons lucros	2	adj n	Economia e negócios
+No Senado brasileiro senadores do governo voltam atrás e dizem ser a favor da CPI	brasileiro senadores	0	adj n	Política e conflitos
+Segundo Presidente de CPI número de deputados brasileiros suspeitos de envolvimento com máfia das ambulâncias pode chegar a 45	brasileiros suspeitos	0	adj n	Política e conflitos
+Vence ultimato de palestinos que mantêm cativo soldado israelense	cativo soldado	-2	adj n	Política e conflitos
+PCC ordena o cessar fogo em São Paulo	cessar fogo	2	adj n	Política e conflitos
+Zapatero saúda "clara vitória" e promete governar com "mão dura e mão estendida"	clara vitória	2	adj n	Política e conflitos
+ONU espera alcançar novo acordo climático vinculativo ainda este ano	climático vinculativo	0	adj n	Política e conflitos
+Coreia do Sul afirma que Coreia do Norte lançou mísseis de curto alcance	curto alcance	0	adj n	Política e conflitos
+Bloqueio da Wikimedia pela China entra na décima semana	décima semana	0	adj n	Política e conflitos
+Timor Leste: décimo aniversário da independência	décimo aniversário	0	adj n	Política e conflitos
+Número de mortos em duplo atentado na Síria chega a 27	duplo atentado	-3	adj n	Saúde
+Cardeal brasileiro faz duras críticas a presidente Lula	duras críticas	-2	adj n	Política e conflitos
+Senador Demóstenes faz duro discurso e cita Fernando Collor de Mello	duro discurso	-1	adj n	Política e conflitos
+No 1º debate do segundo turno, Alckmin e Lula trocam duros ataques	duros ataques	-3	adj n	Política e conflitos
+Fórum Econômico Mundial começa em Davos com foco na crise financeira	econômico mundial	0	adj n-adj	Economia e negócios
+Fórum Econômico Mundial da América Latina discute crise financeira	econômico mundial	0	adj n-adj	Economia e negócios
+Economista expulso do PT afirma que Lula sabia sobre corrupção	economista expulso	-1	adj n	Política e conflitos
+Tarso considera "questões menores" acusação contra Dilma e eventual candidatura de Marina	eventual candidatura	0	adj n	Política e conflitos
+Um em cada cinco paraguaios vive em extrema pobreza	extrema pobreza	-2	adj n	Política e conflitos
+Merkel é reeleita formalmente chefe do governo alemão	formalmente chefe	0	adj n	Política e conflitos
+Trabalhistas sofrem forte revés em eleições municipais no Reino Unido	forte revés	-2	adj n	Política e conflitos
+Dia de combate ao tabagismo alerta sobre os riscos de ser fumante passivo	fumante passivo	0	adj n	Saúde
+Ateliê português projeta futura capital da Guiné Equatorial	futura capital	0	adj n	Política e conflitos
+Eleições definem o futuro governo de Israel	futuro governo	0	adj n	Política e conflitos
+Morre grande descobridor de vacinas	grande descobridor	2	adj n	Saúde
+Lula garante que Brasil terá grande desenvolvimento em 2006	grande desenvolvimento	2	adj n	Economia e negócios
+Grande manifestação da oposição acontece na Venezuela	grande manifestação	-2	adj n	Política e conflitos
+Maior banco dos Estados Unidos anuncia grande prejuízo	grande prejuízo	-2	adj n	Economia e negócios
+Segunda edição do Festival Paulínia de Cinema tem grande repercussão e é elogiada por críticos	grande repercussão	0	adj n	Economia e negócios
+Estados Unidos vão comprar US$ 250 bilhões em ações de grandes bancos norte-americanos	grandes bancos	0	adj n	Economia e negócios
+Mantega anuncia liberação de R$ 15 bilhões para pequenas, médias e grandes empresas	grandes empresas	0	adj n	Economia e negócios
+Companhias petroleiras obtêm grandes lucros	grandes lucros	2	adj n	Economia e negócios
+49 pessoas morrem, 600 ficam feridos, dos quais 400 em estado grave, em grave acidente de trem em Buenos Aires, na Argentina	grave acidente	-3	adj n	Saúde
+Asilo ao terrorista italiano gera grave crise diplomática entre Brasil e Itália	grave crise	-2	adj n	Política e conflitos
+Polícia colombiana captura importante guerrilheira das FARC	importante guerrilheira	0	adj n	Política e conflitos
+ONU diz que é impossível eleição justa no Zimbábue	impossível eleição	-1	adj n	Política e conflitos
+Indústrias automotivas doam R$ 250 mil ao Fome Zero do Brasil	indústrias automotivas	0	adj n	Saúde
+Presidente do Superior Tribunal de Justiça disse que o Brasil está a largos passos de um Estado nazista	largos passos	0	adj n	Política e conflitos
+Vitória do partido de Putin nas eleições legislativas russas	legislativas russas	0	adj n	Política e conflitos
+Itamaraty apela à Líbia para autorizar saída de estrangeiros e livre circulação	livre circulação	1	adj n	Política e conflitos
+Acordo de livre comércio entre Brasil e México é tabu, diz Calderón	livre comércio	1	adj n	Economia e negócios
+Acordo de livre comércio entre Mercosul e Israel entra em vigor amanhã	livre comércio	1	adj n	Política e conflitos
+Paquistão e China assinam tratado de livre comércio	livre comércio	1	adj n	Política e conflitos
+Senado norte-americano aprova tratado de livre comércio com o Peru	livre comércio	1	adj n	Economia e negócios
+Previdência tem maior arrecadação desde 1995, mas fecha mês com déficit de R$ 2,73 bilhões	maior arrecadação	1	adj n	Saúde
+Banco do Brasil volta a ser o maior banco da América Latina	maior banco	1	adj n	Economia e negócios
+Irlanda vai nacionalizar o terceiro maior banco do país	maior banco	0	adj n	Economia e negócios
+Israel lança contra Gaza o maior bombardeio desde janeiro de 2009	maior bombardeio	-2	adj n	Política e conflitos
+Yahoo! vai demitir mil funcionários, o maior corte da sua história	maior corte	-1	adj n	Economia e negócios
+Brasil ultrapassa Reino Unido e se torna a sexta maior economia do mundo	maior economia	1	adj n	Economia e negócios
+Revisão do PIB chinês torna o país a terceira maior economia do mundo	maior economia	1	adj n	Economia e negócios
+Petrobras se torna 3ª maior empresa das Américas em valor de mercado	maior empresa	1	adj n	Economia e negócios
+Brasil é o 5ª maior mercado de computadores	maior mercado	1	adj n	Economia e negócios
+Joint venture entre a Telefônica e a Portugal Telecom é a maior operadora de telefonia móvel do mercado brasileiro	maior operadora	1	adj n	Política e conflitos
+China supera Estados Unidos e torna-se maior parceiro comercial do Brasil	maior parceiro	1	adj n	Economia e negócios
+Maior parte de município maranhense está inundado	maior parte	0	adj n	Saúde
+Mercedes Benz adquire maior parte da Brawn GP	maior parte	0	adj n	Economia e negócios
+Brasil tem em dezembro de 2008, maior perda de empregos desde maio de 1999	maior perda	-2	adj n	Economia e negócios
+Brasil ultrapassa a França e torna-se o sexto maior produtor de automóveis	maior produtor	1	adj n	Economia e negócios
+PIB dos EUA tem maior queda desde 1946	maior queda	-2	adj n	Economia e negócios
+Fogo atinge no maior shopping center do Bangladesh	maior shopping	0	adj n	Saúde
+Gripe suína já matou 557 pessoas no Brasil, que detém a 7ª maior taxa de óbitos no mundo	maior taxa	0	adj n	Saúde
+Dólar fecha em alta no Brasil e mantém-se no maior valor em nove anos	maior valor	1	adj n	Economia e negócios
+Dólar passa de R$ 2,74 e atinge o maior valor em dez anos no Brasil	maior valor	1	adj n	Economia e negócios
+Gasto de brasileiro no exterior atinge em junho maior valor desde o agravamento da crise	maior valor	1	adj n	Economia e negócios
+Cariocas voltam a Copacabana para comemorar indicação para Olimpíadas de 2016; Nuzman diz que Escolha do Rio é a maior vitória política e esportiva do Brasil	maior vitória	2	adj n	Política e conflitos
+Morre brasileiro reconhecido como um dos maiores cientistas do mundo em malária	maiores cientistas	1	adj n	Saúde
+Comparecimento de eleitores na Guiné-Bissau é menor do que a primeira volta e dois maiores partidos se comprometem a aceitar resultados	maiores partidos	0	adj n	Política e conflitos
+Lula critica "aves de mau agouro" e diz que "nenhum governo fez tanto pelos pobres"	mau agouro	-1	adj n	Política e conflitos
+Médico legista do Caso Celso Daniel é encontrado morto em São Paulo	médico legista	0	adj n	Política e conflitos
+Médicos cubanos voltam a trabalhar em Tocantins, no Brasil, depois de terem sido proibidos	médicos cubanos	0	adj n	Saúde
+Médicos franceses descobrem homem sem cérebro	médicos franceses	0	adj n	Saúde
+Brasil e Finlândia discutem biocombustíveis, meio ambiente e ciência e tecnologia	meio ambiente	0	adj n	Economia e negócios
+Investimento público é melhor alternativa para o desenvolvimento da política fiscal, diz Coutinho	melhor alternativa	1	adj n	Economia e negócios
+1,5 mil protestam em frente ao Congesso por melhores condições de trabalho	melhores condições	2	adj n	Política e conflitos
+Dólar fecha em menor cotação desde 1999	menor cotação	-1	adj n	Economia e negócios
+FMI prevê menor crescimento desde a II Guerra Mundial	menor crescimento	-1	adj n	Economia e negócios
+Brasil fecha ano com a menor dívida desde 1998	menor dívida	2	adj n	Economia e negócios
+Aécio Neves tem menor índice de rejeição	menor índice	0	adj n	Política e conflitos
+Dólar chega a uma das menores cotações da década	menores cotações	-1	adj n	Economia e negócios
+Liderança africana debate força militar conjunta	militar conjunta	0	adj n	Política e conflitos
+Los Angeles Times acusa militares americanos de usar jornais iraquianos para propaganda	militares americanos	0	adj n	Política e conflitos
+SBT terá nova afiliada no Mato Grosso	nova afiliada	0	adj n	Economia e negócios
+Ebola: Brasil discute nova ajuda a países africanos	nova ajuda	2	adj n	Saúde
+Hizbollah dispara mais de 100 foguetes contra Israel e usa uma nova arma	nova arma	-2	adj n	Política e conflitos
+Chávez viaja para Cuba, onde será submetido a nova cirurgia	nova cirurgia	0	adj n	Política e conflitos
+Bolívia começa hoje registro de eleitores para referendo que poderá aprovar nova Constituição	nova constituição	0	adj n	Política e conflitos
+Iraque aprova nova Constituição	nova constituição	0	adj n	Política e conflitos
+Morales comemora aprovação da nova Constituição	nova constituição	0	adj n	Política e conflitos
+Morales convida prefeitos a negociar "autonomia real" e nova Constituição	nova constituição	0	adj n	Política e conflitos
+Segundo Le Monde, pesquisas indicam vitória do SIM para nova constituição da Europa	nova constituição	0	adj n	Política e conflitos
+Nova Corte de Justiça equatoriana toma posse	nova corte	0	adj n	Política e conflitos
+Nova denúncia sobre Recursos Federais da Petrobras que não chegaram à Fundação José Sarney	nova denúncia	-1	adj n	Economia e negócios
+Sarney rebate nova denúncia e compara Estadão a tablóides sensacionalistas ingleses	nova denúncia	-1	adj n	Economia e negócios
+COP 17: 193 países para nova discussão sobre o clima	nova discussão	1	adj n	Política e conflitos
+Anvisa aprova uso de nova droga para tratamento do câncer de fígado	nova droga	1	adj n	Saúde
+Série de concertos tem nova edição em Paulínia	nova edição	0	adj n	Economia e negócios
+Chávez diz que inicia-se nova fase de integração entre Venezuela e Guatemala	nova fase	0	adj n	Política e conflitos
+Pacientes lotam pronto-socorro de hospital em Brasília com suspeita de nova gripe	nova gripe	-2	adj n	Saúde
+Brasil: nova lei de estrangeiros	nova lei	0	adj n	Política e conflitos
+Comissão do Senado brasileiro aprova relatório de Mercadante sobre nova Lei Nacional de Adoção	nova lei	0	adj n	Economia e negócios
+Igreja da Bolívia critica nova lei do governo para a Educação	nova lei	0	adj n	Política e conflitos
+Lula assina o reajuste de 10% do programa social do governo Bolsa Família e nova lei de adoção	nova lei	0	adj n	Política e conflitos
+Portugal: partidos preparam nova Lei de Bases de Ambiente	nova lei	0	adj n	Política e conflitos
+Há 15 anos começava a circular o real, nova moeda nacional de poder aquisitivo estável	nova moeda	0	adj n	Economia e negócios
+45 pessoas morreram na nova onda de violência no Quênia	nova onda	0	adj n	Política e conflitos
+Abril Vermelho:MST inicia nova onda de ocupações no Brasil	nova onda	0	adj n	Política e conflitos
+Estados Unidos podem fazer nova proposta para reduzir subsídios na Rodada Doha	nova proposta	0	adj n	Economia e negócios
+Conselho de Ética rejeita nova punição para Edmar Moreira	nova punição	-2	adj n	Política e conflitos
+Costa Rica convoca nova reunião para tratar da crise política em Honduras	nova reunião	1	adj n	Política e conflitos
+China e Tibete acertam a realização de nova rodada de diálogos	nova rodada	0	adj n	Política e conflitos
+Governo dos Estados Unidos censura as revistas científicas por descobrimento de uma nova variedade da gripe	nova variedade	0	adj n	Saúde
+Testemunha apresenta nova versão para assassinato de prefeito de Santo André (SP)	nova versão	0	adj n	Política e conflitos
+Lula defenderá na reunião do G20 novas bases para regular atividade financeira	novas bases	0	adj n	Economia e negócios
+Banco Central lança novas cédulas do real	novas cédulas	0	adj n	Economia e negócios
+Já entraram em vigor novas classificações energéticas nos electrodomésticos	novas classificações	0	adj n	Política e conflitos
+Jornais apresentam novas denúncias contra José Sarney	novas denúncias	-2	adj n	Política e conflitos
+Senadores reagem a três novas denúncias contra Sarney	novas denúncias	-2	adj n	Economia e negócios
+Brasileiros que vivem em Honduras defendem novas eleições para pôr fim à crise política	novas eleições	0	adj n	Política e conflitos
+China e CPLP procuram novas formas de comércio em Moçambique	novas formas	0	adj n	Economia e negócios
+Cidades de São Paulo confirmam novas mortes	novas mortes	-3	adj n	Saúde
+Novas mudanças de canais de TVs no Mato Grosso	novas mudanças	0	adj n	Economia e negócios
+Com novas regras, planos de saúde não precisam pagar cesarianas agendadas	novas regras	0	adj n	Saúde
+Mercosul repudia novas regras imigratórias da União Européia	novas regras	0	adj n	Política e conflitos
+Novas regras para planos de saúde começam a valer nesta segunda-feira	novas regras	0	adj n	Economia e negócios
+Novas regras para telefonia celular no Brasil	novas regras	0	adj n	Economia e negócios
+Roberto Jefferson faz novas revelações sobre corrupção no Brasil	novas revelações	0	adj n	Política e conflitos
+Conselho de Segurança da ONU aprova por unanimidade novas sanções ao Irã	novas sanções	-2	adj n	Política e conflitos
+Depois de pouso na Nicarágua, Zelaya promete novas tentativas de voltar a Honduras	novas tentativas	0	adj n	Política e conflitos
+Brasil e México fecham novo acordo automotivo	novo acordo	2	adj n	Economia e negócios
+Câmara dos deputados brasileira aprova novo acordo tarifário para Itaipu	novo acordo	2	adj n	Economia e negócios
+ONU espera alcançar novo acordo climático vinculativo ainda este ano	novo acordo	2	adj n	Política e conflitos
+Presidentes do Brasil e Paraguai assinam novo acordo da Usina Hidrelétrica de Itaipu	novo acordo	2	adj n	Economia e negócios
+Tentativa de novo acordo na Rodada Doha fracassa	novo acordo	2	adj n	Economia e negócios
+Novo aeroporto de Lisboa tem luz verde do estudo ambiental	novo aeroporto	1	adj n	Política e conflitos
+Suicidas causam novo atentado terrorista em Bali	novo atentado	-2	adj n	Política e conflitos
+FARC fazem novo bloqueio e disparam contra ambulância	novo bloqueio	-1	adj n	Política e conflitos
+Petrobras anuncia novo campo de petróleo leve e gás na Bacia de Santos	novo campo	0	adj n	Economia e negócios
+Novo centro de parto normal será erguido pela Fiocruz, no Rio	novo centro	0	adj n	Saúde
+Obama defende novo começo com muçulmanos no Cairo	novo começo	1	adj n	Política e conflitos
+Novo Concurso de Recenseadores do IBGE	novo concurso	0	adj n	Economia e negócios
+Novo Congresso assume nos EUA e oposição domina Câmara, dificultando atuação de Obama	novo congresso	0	adj n	Política e conflitos
+Doleiro preso envolve Ministro da Justiça do Brasil e deve prestar novo depoimento	novo depoimento	0	adj n	Política e conflitos
+França enfrenta novo dia de protestos contra reforma na Previdência	novo dia	0	adj n	Economia e negócios
+Governo lança novo edital do Mais Médicos	novo edital	0	adj n	Saúde
+Ministério da Saúde anuncia novo edital de residências em medicina de família	novo edital	0	adj n	Saúde
+Venezuela deve anunciar novo embaixador na Colômbia nos próximo dias	novo embaixador	0	adj n	Política e conflitos
+Novo escândalo: Integrantes do PT envolvidos em compra de dossiê contra adversários	novo escândalo	-2	adj n	Política e conflitos
+Suplente de senador defende a criação de novo estado brasileiro	novo estado	0	adj n	Política e conflitos
+Analistas dizem que novo governo de Moçambique tem que diminuir desigualdades	novo governo	0	adj n	Economia e negócios
+Benjamin Netanyahu é chamado por Shimon Peres para formar novo governo	novo governo	0	adj n	Política e conflitos
+Guerrilha islâmica promete que vai lutar contra o novo governo da Somália	novo governo	0	adj n	Política e conflitos
+Lula diz que Brasil não aceita novo governo em Honduras	novo governo	0	adj n	Política e conflitos
+Manmohan Singh presta juramento para novo governo na Índia	novo governo	0	adj n	Política e conflitos
+Novo governo de Honduras acusa Nicarágua de mobilizar tropas nas fronteiras	novo governo	0	adj n	Política e conflitos
+Novo governo de Honduras tem 72 horas para devolver poder a Zelaya, diz OEA	novo governo	0	adj n	Política e conflitos
+Novo governo mauritano após o golpe de Estado	novo governo	0	adj n	Política e conflitos
+Partidos belgas chegam a acordo para formar novo governo	novo governo	0	adj n	Política e conflitos
+Toma posse novo governo na Grécia; futuro do país sob governo da Esquerda Radical SYRIZA provoca especulações no mundo	novo governo	0	adj n	Economia e negócios
+Tzipi Livni pede prazo para formar novo governo em Israel	novo governo	0	adj n	Política e conflitos
+Venezuela é o mais novo integrante do Mercosul	novo integrante	0	adj n	Economia e negócios
+Pesquisadores da Fiocruz estudam novo larvicida contra mosquito da dengue	novo larvicida	0	adj n	Saúde
+Presidente da Indonésia inicia um novo mandato	novo mandato	0	adj n	Política e conflitos
+Anvisa aprova registro de novo medicamento para tuberculose	novo medicamento	1	adj n	Saúde
+Irã testa novo míssil	novo míssil	-1	adj n	Política e conflitos
+Irã testa novo míssil de longo alcance	novo míssil	-1	adj n	Política e conflitos
+Novo Parlamento de Cabo Verde será eleito em 6 de fevereiro	novo parlamento	0	adj n	Política e conflitos
+Taro Aso é escolhido como novo premiê do Japão	novo premiê	0	adj n	Política e conflitos
+Eleições na Itália escolhem novo premiêr	novo premiêr	0	adj n	Política e conflitos
+Eduardo Rodríguez Veltzé é o novo Presidente da Bolívia	novo presidente	0	adj n	Política e conflitos
+Egito elege novo presidente	novo presidente	0	adj n	Política e conflitos
+Ex-ditador de Cuba muda de opinião e ataca o novo presidente dos Estados Unidos	novo presidente	0	adj n	Política e conflitos
+Garibaldi Alves é o novo presidente do Senado Brasileiro	novo presidente	0	adj n	Política e conflitos
+José Alencar nomeia servidor como novo presidente da Embrapa	novo presidente	0	adj n	Economia e negócios
+Luis Alberto Moreno da Colômbia é o novo Presidente do BID	novo presidente	0	adj n	Economia e negócios
+Novo presidente da Ucrãnia vai manter governo	novo presidente	0	adj n	Política e conflitos
+Novo presidente pede para hondurenhos não se preocuparem com ameaças	novo presidente	0	adj n	Política e conflitos
+Os guineeses vão eleger um novo presidente	novo presidente	0	adj n	Política e conflitos
+Paraguai elege novo presidente em duas semanas	novo presidente	0	adj n	Política e conflitos
+Presidente da Venezuela muda de opinião e ataca o novo presidente dos Estados Unidos	novo presidente	0	adj n	Política e conflitos
+Sarney é o novo presidente do Senado	novo presidente	0	adj n	Política e conflitos
+Sergio Mattarella é eleito novo Presidente da Itália	novo presidente	0	adj n	Economia e negócios
+Tarso Genro é o novo presidente do Partido dos Trabalhadores	novo presidente	0	adj n	Política e conflitos
+França tem novo Primeiro-Ministro	novo primeiro-ministro	0	adj n	Política e conflitos
+Netanyahu é confirmado pelo Knesset como novo primeiro-ministro de Israel	novo primeiro-ministro	0	adj n	Política e conflitos
+Parlamento paquistanês elege candidato do PPP como novo primeiro-ministro	novo primeiro-ministro	0	adj n	Política e conflitos
+Prodi, líder da centro-esquerda italiano, é apontado como novo primeiro-ministro da Itália	novo primeiro-ministro	0	adj n	Política e conflitos
+Yoshihiko Noda é o novo primeiro-ministro do Japão	novo primeiro-ministro	0	adj n	Política e conflitos
+Lula dá posse ao novo Procurador-Geral da República e critica "show de pirotecnia" e pede mais cautela em investigações	novo procurador-geral	0	adj n	Política e conflitos
+Bovespa fecha em novo recorde e Dólar acumula queda de quase 3% na semana.	novo recorde	2	adj n	Economia e negócios
+Preço do Petróleo bate novo recorde	novo recorde	2	adj n	Economia e negócios
+Novo regulamento de transporte em Moçambique	novo regulamento	0	adj n	Economia e negócios
+Holanda tem novo rei, o primeiro homem em 123 anos	novo rei	1	adj n	Política e conflitos
+Novo relatório da Associação Justiça, Paz e Democracia sobre a corrupção em Angola	novo relatório	0	adj n	Economia e negócios
+Programa das Nações Unidas apresenta novo relatório sobre aids no mundo	novo relatório	0	adj n	Saúde
+Valoração do novo Relógio de Ponto Eletrônico no Brasil	novo relógio	0	adj n	Economia e negócios
+Novo salário mínimo brasileiro passará a valer a partir de sábado	novo salário	1	adj n	Economia e negócios
+José Miguel Insulza é o novo secretário da OEA	novo secretário	0	adj n	Política e conflitos
+Novo shopping de luxo é inaugurado em São Paulo	novo shopping	1	adj n	Economia e negócios
+Novo super-micróbio surge no Reino Unido	novo super-micróbio	0	adj n	Saúde
+Coreia do Norte realiza novo teste nuclear	novo teste	0	adj n	Política e conflitos
+Novo valor do Bolsa Família começa a ser pago em setembro	novo valor	0	adj n	Economia e negócios
+Empossado novo vice-presidente do Equador	novo vice-presidente	0	adj n	Política e conflitos
+Ministra Dilma Rousseff se apresenta em novo visual	novo visual	0	adj n-adj	Política e conflitos
+Al-Qaeda planeja novos ataques aos EUA	novos ataques	-2	adj n	Política e conflitos
+Israel lança novos ataques aéreos contra Faixa de Gaza	novos ataques	-2	adj n	Política e conflitos
+Novos atentados na Argélia mata 11 e fere 31 pessoas	novos atentados	-2	adj n	Política e conflitos
+Brasil confirma 14 novos casos de gripe A (H1N1)	novos casos	0	adj n	Saúde
+Brasil registra dois novos casos de gripe suína	novos casos	0	adj n	Saúde
+Brasil tem 17 novos casos de gripe suína	novos casos	0	adj n	Saúde
+Brasil tem três novos casos de gripe suína	novos casos	0	adj n	Saúde
+Cinco novos casos da Gripe H1N1 elevam para 107 em Portugal	novos casos	0	adj n	Saúde
+Gripe suína tem 2.449 novos casos no mundo	novos casos	0	adj n	Saúde
+Gripe suína tem redução de novos casos	novos casos	0	adj n	Saúde
+Mais 23 novos casos da gripe A (H1N1) em Portugal, chegando a 295 no total desde maio	novos casos	0	adj n	Saúde
+Ministério da Saúde confirma novos casos da Gripe A suína (H1N1) em Portugal e cidadãos portugueses no navio Ocean Dream nas Caraíbas	novos casos	0	adj n	Saúde
+Mundo registra mais de 11 mil novos casos de gripe suína, diz OMS	novos casos	0	adj n	Saúde
+Novos casos da Gripe A em SP e RS	novos casos	0	adj n	Saúde
+Novos casos de febre aftosa são descobertos no Brasil	novos casos	0	adj n	Economia e negócios
+Novos confrontos na Capital da Somália	novos confrontos	-2	adj n	Política e conflitos
+Praça Tahrir, no Cairo, tem novos confrontos	novos confrontos	-2	adj n	Política e conflitos
+Novos dados sobre exploração de madeira na Amazônia devem sair em agosto	novos dados	0	adj n	Economia e negócios
+9.388 mil novos empregos federais	novos empregos	2	adj n	Política e conflitos
+Mantega acredita que país poderá ter até 700 mil novos empregos no fim do ano	novos empregos	2	adj n	Economia e negócios
+Quase 30 pessoas morrem durante novos enfrentamentos na Síria	novos enfrentamentos	-2	adj n	Saúde
+Câmara aprova plebiscito sobre emancipação de novos estados no Pará	novos estados	0	adj n	Política e conflitos
+Criação de novos estados repercute pelo país	novos estados	0	adj n	Política e conflitos
+ACNUR afirma que novos grupos ilegais estão a se formar ao sul da Colômbia	novos grupos	0	adj n	Política e conflitos
+Cobertura básica dos planos de saúde terá novos itens obrigatórios	novos itens	0	adj n	Economia e negócios
+STJ define nomeação de dois novos ministros	novos ministros	0	adj n	Política e conflitos
+Técnicos buscam novos pontos de vazamento de óleo no fundo do mar na área do Campo de Frade	novos pontos	0	adj n	Economia e negócios
+Eleitores de seis municípios escolheram novos prefeitos neste domingo	novos prefeitos	0	adj n	Política e conflitos
+Quatro países latino-americanos vão eleger novos presidentes em 2011	novos presidentes	0	adj n	Política e conflitos
+Manifestação pede liberação de novos remédios contra hepatite C	novos remédios	1	adj n	Saúde
+Grupo de milícias são os novos responsáveis pelo crime em favelas no Rio	novos responsáveis	0	adj n-adj	Política e conflitos
+Alemães protestam contra plano nuclear alemão	nuclear alemão	0	adj n	Política e conflitos
+ONU define comissão que vai investigar ofensiva israelense na Faixa de Gaza	ofensiva israelense	-1	adj n	Política e conflitos
+Emprego na indústria tem a oitava queda consecutiva em maio	oitava queda	-1	adj n	Economia e negócios
+Uribe adverte paramilitares presos	paramilitares presos	-1	adj n	Política e conflitos
+Copa, Olimpíadas e pré-sal podem gerar bons lucros para pequenas empresas, diz Sebrae	pequenas empresas	0	adj n	Política e conflitos
+Ministro admite "pequenas falhas" na lista de fazendas liberadas para exportar carne	pequenas falhas	-1	adj n	Economia e negócios
+Brincadeira telefônica causa pequeno incidente diplomático entre Espanha e Bolívia	pequeno incidente	-1	adj n	Política e conflitos
+Ministério das Cidades libera R$ 1 bilhão para moradias populares em pequenos municípios	pequenos municípios	0	adj n	Economia e negócios
+Silva Pereira defende que é a pior altura para «entregar PR à direita»	pior altura	-2	adj n	Política e conflitos
+PIB dos EUA tem seu pior desempenho em mais de 25 anos	pior desempenho	-2	adj n	Economia e negócios
+Piora estado de saúde do ex-Primeiro-Ministro de Israel Ariel Sharon	piora estado	-2	adj n	Política e conflitos
+Lei da Ficha Limpa está em pleno vigor, diz Lewandowski	pleno vigor	2	adj n	Política e conflitos
+Banqueiro Daniel Dantas nega ser autor de suposto dossiê contra políticos brasileiros	políticos brasileiros	0	adj n	Política e conflitos
+Grupo de dissidentes políticos cubanos deixa o país para viver na Espanha	políticos cubanos	0	adj n	Política e conflitos
+ONU pede investigação sobre possíveis crimes de guerra em Gaza	possíveis crimes	-1	adj n	Política e conflitos
+CGU vai investigar possíveis irregularidades em projeto da Fundação José Sarney	possíveis irregularidades	-1	adj n	Política e conflitos
+ONU vai investigar possíveis violações de direitos humanos de Israel em Gaza	possíveis violações	-1	adj n	Política e conflitos
+José Sócrates descarta uma possível aliança com PSD	possível aliança	1	adj n	Política e conflitos
+Equipe econômica não está preocupada com possível aumento da taxa de juros pelo Banco Central	possível aumento	0	adj n	Economia e negócios
+Uribe critica possível encontro entre Chávez e chefão das FARC	possível encontro	0	adj n	Política e conflitos
+Opportunity reclama de possível indiciamento de Dantas por relatora da CPI dos Grampos	possível indiciamento	0	adj n	Política e conflitos
+Colômbia sugere ao Brasil investigar possível ligação de ex-padre com as Farc	possível ligação	0	adj n	Política e conflitos
+Comandantes militares evitam polemizar sobre possível revisão da Lei da Anistia	possível revisão	0	adj n	Política e conflitos
+IPCC estuda possível revisão da previsão do derretimento dos Himalaias	possível revisão	0	adj n	Política e conflitos
+Cabo Verde: Lava atinge primeira aldeia na Ilha do Fogo	primeira aldeia	0	adj n	Saúde
+Conselho Curador da EBC aprova data da primeira audiência pública sobre TV Brasil	primeira audiência	0	adj n	Política e conflitos
+Brasil sedia primeira cúpula da Comunidade Sul-Americana de Nações	primeira cúpula	0	adj n	Política e conflitos
+Presidente Lula do Brasil dá a primeira entrevista coletiva do seu governo	primeira entrevista	0	adj n	Política e conflitos
+Ramos-Horta agradece apoio, em sua primeira entrevista pós-atentado	primeira entrevista	0	adj n	Política e conflitos
+Aprovado a primeira etapa de impostos sobre a mineração na Austrália	primeira etapa	0	adj n	Economia e negócios
+Brasil registra sua primeira morte por Gripe Suína	primeira morte	-3	adj n	Saúde
+Chile confirma primeira morte por gripe suína na América do Sul	primeira morte	-3	adj n	Saúde
+China registra primeira morte por gripe suína	primeira morte	-3	adj n	Saúde
+Espanha registra primeira morte por Gripe Suína (H1N1)	primeira morte	-3	adj n	Saúde
+Estados Unidos confirmam primeira morte por gripe suína	primeira morte	-3	adj n	Saúde
+Paraíba registra primeira morte por gripe suína no Nordeste	primeira morte	-3	adj n	Saúde
+Lula inaugura, na Bahia, primeira usina de biodiesel da Petrobras	primeira usina	0	adj n	Economia e negócios
+Obama começa sua primeira viagem latino-americana pelo Brasil	primeira viagem	0	adj n	Política e conflitos
+Influenza A (H1N1) faz primeira vítima fatal na Argentina	primeira vítima	-2	adj n	Saúde
+Influenza A (H1N1) faz primeira vítima fatal no Reino Unido	primeira vítima	-2	adj n	Saúde
+Comparecimento de eleitores na Guiné-Bissau é menor do que a primeira volta e dois maiores partidos se comprometem a aceitar resultados	primeira volta	0	adj n	Política e conflitos
+Brasil registra primeiro caso de suspeita de Ebola	primeiro caso	0	adj n	Saúde
+Israel e Nova Zelândia confirmam primeiro caso de gripe suína	primeiro caso	0	adj n	Saúde
+Moçambique confirma o primeiro caso da Gripe A H1N1	primeiro caso	0	adj n	Saúde
+Ocorre o primeiro caso de transmissão de gripe suína entre pessoas no Brasil	primeiro caso	0	adj n	Saúde
+Portugal confirma primeiro caso de gripe suína	primeiro caso	0	adj n	Saúde
+Quênia confirma seu primeiro caso de Gripe Suína	primeiro caso	0	adj n	Saúde
+São Paulo tem primeiro caso de febre amarela	primeiro caso	0	adj n	Saúde
+Após primeiro debate e início do horário político, Datafolha revela ampliação da vantagem de Lula	primeiro debate	1	adj n	Política e conflitos
+Ocorreu o primeiro debate entre os candidatos à Eleição Presidencial Brasileira de 2006	primeiro debate	1	adj n	Política e conflitos
+No primeiro dia de eleições no Egito, uma pessoa morre e várias ficam feridas	primeiro dia	0	adj n	Política e conflitos
+No primeiro dia na Casa Branca, Obama discute operação militar no Iraque	primeiro dia	0	adj n	Política e conflitos
+Sucesso no primeiro dia de leilão do 3G no Brasil	primeiro dia	0	adj n	Economia e negócios
+Holanda tem novo rei, o primeiro homem em 123 anos	primeiro homem	0	adj n	Política e conflitos
+Lula vai dar posse hoje, no Paraná, ao primeiro juiz cego do Brasil	primeiro juiz	0	adj n	Política e conflitos
+Lula quer se reunir com primeiro ministro francês para discutir situação na Faixa de Gaza	primeiro ministro	0	adj n	Política e conflitos
+Campo Grande é o primeiro município brasileiro a receber financiamento do BID para o Procidades	primeiro município	0	adj n	Economia e negócios
+Morre primeiro paciente diagnosticado com ebola nos Estados Unidos	primeiro paciente	0	adj n	Saúde
+Obama faz o discurso histórico em Gana, primeiro país da África a visitar	primeiro país	0	adj n	Política e conflitos
+Peru é primeiro país da América do Sul a confirmar caso de gripe suína	primeiro país	0	adj n	Saúde
+Medida de Obama sobre espionagem é "primeiro passo", diz governo	primeiro passo	0	adj n	Política e conflitos
+Aldo Rebelo torna-se primeiro presidente comunista do Brasil	primeiro presidente	0	adj n	Política e conflitos
+Morre Luís Cabral, o primeiro Presidente da Guiné-Bissau	primeiro presidente	0	adj n	Política e conflitos
+Complexo do Alemão deve receber UPP no primeiro semestre de 2011	primeiro semestre	0	adj n	Política e conflitos
+Déficit da Previdência aumenta 10,7% no primeiro semestre em relação a mesmo período de 2008	primeiro semestre	0	adj n	Economia e negócios
+Destinação correta de embalagens de agrotóxicos cresce 17% no primeiro semestre	primeiro semestre	0	adj n	Economia e negócios
+Dezoito milhões de pessoas serão vacinadas contra a gripe A até o primeiro semestre de 2010	primeiro semestre	0	adj n	Saúde
+País tem déficit de US$ 7,074 bilhões em conta corrente no primeiro semestre	primeiro semestre	0	adj n	Economia e negócios
+Vendas pela internet no Brasil crescem 27% no primeiro semestre	primeiro semestre	0	adj n	Economia e negócios
+Morre o primeiro soldado brasileiro no Haiti	primeiro soldado	0	adj n	Política e conflitos
+Banco do Brasil lucra R$ 1,7 bilhão no primeiro trimestre de 2009	primeiro trimestre	0	adj n	Economia e negócios
+Banco do Brasil tem lucro líquido de R$ 2,3 bilhões no primeiro trimestre	primeiro trimestre	0	adj n	Economia e negócios
+Economia brasileira cresce 5,8% no primeiro trimestre	primeiro trimestre	0	adj n	Economia e negócios
+Expansão do PIB ante primeiro trimestre de 2010 coloca Brasil no quarto lugar entre Brics	primeiro trimestre	0	adj n	Economia e negócios
+PIB brasileiro tem queda de 0,8% no primeiro trimestre do ano	primeiro trimestre	0	adj n	Economia e negócios
+Datafolha: Lula vence no primeiro turno	primeiro turno	0	adj n	Política e conflitos
+Michel Temer é eleito no primeiro turno presidente da Câmara pela terceira vez	primeiro turno	0	adj n	Política e conflitos
+Para Noblat Lula vence no primeiro turno	primeiro turno	0	adj n	Política e conflitos
+Depressão pode começar nos primeiros anos de vida, mas nem sempre é tratada	primeiros anos	0	adj n	Saúde
+Brasil confirma primeiros casos de Influenza A H1N1	primeiros casos	0	adj n	Saúde
+Continente africano tem primeiros casos suspeitos de gripe suína	primeiros casos	0	adj n	Saúde
+CPI dos Sanguessugas agendou primeiros depoimentos para esta semana	primeiros depoimentos	0	adj n	Política e conflitos
+Fluxo cambial do Brasil continua positivo nos primeiros dias de julho	primeiros dias	0	adj n	Economia e negócios
+Chegam os primeiros soldados da força de paz da ONU ao Sudão	primeiros soldados	0	adj n	Política e conflitos
+Austrália começa a fazer os primeiros testes em humanos de vacina contra a gripe A	primeiros testes	0	adj n	Saúde
+Agentes de segurança dos principais aeroportos franceses voltam ao trabalho após 11 dias em greve	principais aeroportos	0	adj n	Política e conflitos
+Atrasos atingem quase 10% dos voos nos principais aeroportos, indica Infraero	principais aeroportos	0	adj n	Economia e negócios
+Doença isquêmica do coração, derrame e pneumonia são principais causas de morte	principais causas	0	adj n	Saúde
+Amazônia é um dos principais destinos de refugiados colombianos	principais destinos	0	adj n	Política e conflitos
+Mensalão é o assunto dos principais jornais e revistas do Brasil	principais jornais	0	adj n	Política e conflitos
+ONU aponta Venezuela como uma das principais rotas do tráfico de drogas	principais rotas	0	adj n	Saúde
+Agricultura é principal atividade em 59% das terras cadastradas na Amazônia	principal atividade	0	adj n	Economia e negócios
+António Guterres considera que Darfur é o principal factor de crise no mundo	principal factor	0	adj n	Política e conflitos
+Bush: "Irã é o principal patrocinador do terrorismo no mundo"	principal patrocinador	0	adj n	Política e conflitos
+Explosão mata policial na Espanha; ETA é principal suspeita	principal suspeita	-1	adj n	Política e conflitos
+Rodada Doha deve ser principal tema de encontro entre Lula e Bush no Japão	principal tema	0	adj n	Economia e negócios
+Oposição já tem pronto requerimento de convocação de Dilma para acareação no Senado	pronto requerimento	0	adj n	Economia e negócios
+Líder das FARC é morto por seus próprios homens	próprios homens	0	adj n	Política e conflitos
+Líder do PSDB no Senado protocola denúncia no Conselho de Ética	protocola denúncia	0	adj n	Economia e negócios
+Países emergentes conseguem ampliar participação na próxima cúpula do G8	próxima cúpula	0	adj n	Economia e negócios
+Projeto que torna corrupção crime hediondo pode ser votado na próxima semana	próxima semana	0	adj n	Política e conflitos
+Renan Calheiros diz que PMDB vai representar contra Arthur Virgílio no Conselho de Ética na próxima semana, em resposta das representações contra Sarney	próxima semana	0	adj n	Política e conflitos
+Marina Silva adia para amanhã decisão sobre filiação partidária e concorrer nas próximas eleições	próximas eleições	0	adj n	Política e conflitos
+Micheletti estuda se afastar do governo para garantir eleições tranquilas e Zelaya ameaça impugnar as eleições hondurenhas do próximo dia 29	próximo dia	0	adj n	Política e conflitos
+Venezuela deve anunciar novo embaixador na Colômbia nos próximo dias	próximo dias	0	adj n	Política e conflitos
+José Alencar será operado no próximo domingo para retirar tumor	próximo domingo	0	adj n	Política e conflitos
+Próximo encontro do Foro de São Paulo será na capital paulista	próximo encontro	0	adj n	Política e conflitos
+Comunistas discutem integração e organização do próximo Foro de São Paulo	próximo foro	0	adj n	Política e conflitos
+Obama se reunirá no próximo sábado com líderes da Unasul	próximo sábado	0	adj n	Economia e negócios
+Empréstimos garantirão investimentos da Petrobras pelos próximos anos, afirma Gabrielli	próximos anos	0	adj n	Economia e negócios
+Chávez e Uribe devem se encontrar nos próximos dias	próximos dias	0	adj n	Política e conflitos
+Mantega atribui a bancos públicos recuperação rápida e sustentável da economia	públicos recuperação	0	adj n	Economia e negócios
+Brasil registra a quarta morte por gripe A H1N1	quarta morte	-3	adj n	Saúde
+José Sarney é eleito presidente do Senado pela quarta vez	quarta vez	0	adj n	Política e conflitos
+China confirma quarto caso de gripe suína no país	quarto caso	0	adj n	Saúde
+Expansão do PIB ante primeiro trimestre de 2010 coloca Brasil no quarto lugar entre Brics	quarto lugar	0	adj n	Economia e negócios
+Campinas confirma quinta morte por gripe suína na cidade	quinta morte	-3	adj n	Saúde
+PSOL protocola quinta representação contra Sarney no Conselho de Ética no Senado	quinta representação	0	adj n	Política e conflitos
+Presidente de Cuba faz rápida visita à Bahia	rápida visita	1	adj n	Política e conflitos
+Colômbia ratifica acordo de livre comércio com o Mercosul	ratifica acordo	0	adj n	Economia e negócios
+Grupo islâmico reivindica atentados que mataram 55 pessoas na Síria; Jornalistas turcos são libertados	reivindica atentados	-2	adj n	Saúde
+Ministra diz que brasileiros não podem ser tratados como cidadãos de segunda categoria	segunda categoria	0	adj n	Política e conflitos
+Acidentes de viação são segunda causa de mortalidade em Angola	segunda causa	0	adj n	Saúde
+Lula e Gilmar Mendes discutem nesta segunda denúncia de grampo no Supremo	segunda denúncia	-1	adj n	Política e conflitos
+Segunda edição do Festival Paulínia de Cinema tem grande repercussão e é elogiada por críticos	segunda edição	0	adj n	Economia e negócios
+Cruz Vermelha alerta países pobres para uma possível segunda onda da doença	segunda onda	0	adj n	Saúde
+Balança comercial brasileira tem superavit de US$ 680 milhões na segunda semana do mês	segunda semana	0	adj n	Economia e negócios
+Imperador Akihito sofre de hemorragia gástrica, segundo agência de notícias	segundo agência	0	adj n	Política e conflitos
+Pelo segundo ano consecutivo, Forbes posiciona Vladimir Putin como a pessoa mais poderosa do mundo	segundo ano	0	adj n	Economia e negócios
+Instituto Florestan Fernandes, ligado ao PT, recebeu recursos da Petrobras, segundo deputado	segundo deputado	0	adj n	Política e conflitos
+Brasil : greve de ônibus em Curitiba e região metropolitana entra no segundo dia	segundo dia	0	adj n	Economia e negócios
+Líbano enfrenta crise humanitária segundo funcionário das Nações Unidas	segundo funcionário	0	adj n	Política e conflitos
+Argentina passa a ser segundo país em número de mortes por gripe suína	segundo país	0	adj n	Saúde
+Alan García vence Ollanta Humala no segundo turno da eleição presidencial no Peru	segundo turno	0	adj n	Política e conflitos
+Após segundo turno, Lula diz que processo democrático no país saiu fortalecido	segundo turno	0	adj n	Política e conflitos
+Chile: Eleições presidenciais vão para o segundo turno	segundo turno	0	adj n	Política e conflitos
+Eleições presidenciais vão para o segundo turno	segundo turno	0	adj n	Política e conflitos
+No 1º debate do segundo turno, Alckmin e Lula trocam duros ataques	segundo turno	0	adj n	Política e conflitos
+Próximo Presidente do Chile será decidido no segundo turno	segundo turno	0	adj n	Política e conflitos
+Resultado do segundo turno das Eleições Brasileiras 2006	segundo turno	0	adj n	Política e conflitos
+Segundo IBOPE, Lula somente perde para Serra no segundo turno	segundo turno	0	adj n	Política e conflitos
+Sarney rebate nova denúncia e compara Estadão a tablóides sensacionalistas ingleses	sensacionalistas ingleses	-1	adj n	Política e conflitos
+Sob críticas, governo do Rio começa a distribuir medicamento contra gripe A	sob críticas	-2	adj n	Saúde
+Osasco confirma terceira morte por gripe A	terceira morte	-3	adj n	Saúde
+Rio Grande do Sul confirma terceira morte por gripe suína no Brasil	terceira morte	-3	adj n	Saúde
+Inflação em São Paulo sobe para 0,27% na terceira prévia do mês	terceira prévia	0	adj n	Economia e negócios
+Michel Temer é eleito no primeiro turno presidente da Câmara pela terceira vez	terceira vez	0	adj n	Política e conflitos
+Portugal confirma o terceiro caso da Gripe A H1N1 suína	terceiro caso	0	adj n	Saúde
+No Reino Unido, Partido Trabalhista fica em terceiro lugar na Euroeleição	terceiro lugar	0	adj n	Política e conflitos
+Colômbia aprova referendo para terceiro mandato de Uribe	terceiro mandato	0	adj n	Política e conflitos
+Dilma diz que governo pode continuar sem terceiro mandato	terceiro mandato	0	adj n	Política e conflitos
+Em visita à Guatemala, Lula diz que não vai reeleger em 2010, mas defende que Presidentes sul-americanos tenham o terceiro mandato, desde que a democracia seja respeitada	terceiro mandato	0	adj n	Política e conflitos
+Quase metade apóia terceiro mandato de Lula, diz pesquisa	terceiro mandato	0	adj n	Política e conflitos
+Banco do Brasil tem lucro 37% maior no terceiro trimestre	terceiro trimestre	0	adj n	Economia e negócios
+PIB cresce 6,8% no terceiro trimestre, segundo o IBGE	terceiro trimestre	0	adj n	Economia e negócios
+OMS pede investimentos no combate a doenças tropicais negligenciadas	tropicais negligenciadas	-1	adj n	Saúde
+Kofi Annan critica a imprensa em sua última entrevista colectiva do ano	última entrevista	0	adj n	Política e conflitos
+Candidato pelo PSDB ao Planalto minimiza resultado da última pesquisa	última pesquisa	0	adj n	Política e conflitos
+Presidente do Paraguai passa bem após última sessão de quimioterapia e deixa hospital	última sessão	0	adj n	Política e conflitos
+Gladys Powers, a última veterana feminina da I Guerra Mundial, morre aos 109 anos	última veterana	0	adj n	Política e conflitos
+Democratas vão às urnas para últimas primárias do partido	últimas primárias	0	adj n	Política e conflitos
+Juíza ouve cinco últimas testemunhas de defesa do mensalão em São Paulo	últimas testemunhas	0	adj n	Política e conflitos
+Último balanço do Ministério da Saúde sobre a febre amarela no Brasil	último balanço	0	adj n	Saúde
+No último debate entre os presidenciáveis, o eleitor indeciso questiona e os candidatos respondem, entretanto, foi o debate mais tenso	último debate	1	adj n	Política e conflitos
+Eleições em Moçambique começam no último dia de Agosto	último dia	0	adj n	Política e conflitos
+Roberto Jefferson ataca O Globo, o relator, Lula, o governo e o PT em seu último discurso como deputado	último discurso	0	adj n	Política e conflitos
+Presidente da Grécia fará último esforço para formar governo de coalizão	último esforço	0	adj n	Política e conflitos
+Lula faz balanço dos oito anos de governo durante último pronunciamento	último pronunciamento	0	adj n	Política e conflitos
+Morre o último veterano britânico na I Guerra Mundial e considerado o homem mais velho do mundo	último veterano	0	adj n	Política e conflitos
+Morre o último veterano da I Guerra Mundial	último veterano	0	adj n	Política e conflitos
+Lula diz que crise imobiliária americana é única coisa que preocupa economia brasileira	única coisa	0	adj n	Economia e negócios
+Fortalecimento do G20 como instância decisória é única proposta concreta que sai de reunião	única proposta	0	adj n	Economia e negócios
+Continuam violentos confrontos na Faixa de Gaza	violentos confrontos	-3	adj n	Política e conflitos
+Cabo Verde: XV Congresso da UCID	xv congresso	0	adj n	Política e conflitos
